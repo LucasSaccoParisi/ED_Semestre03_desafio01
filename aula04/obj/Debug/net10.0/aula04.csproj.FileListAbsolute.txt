@@ -1,0 +1,14 @@
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/bin/Debug/net10.0/aula04
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/bin/Debug/net10.0/aula04.deps.json
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/bin/Debug/net10.0/aula04.runtimeconfig.json
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/bin/Debug/net10.0/aula04.dll
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/bin/Debug/net10.0/aula04.pdb
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/aula04.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/aula04.AssemblyInfoInputs.cache
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/aula04.AssemblyInfo.cs
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/aula04.csproj.CoreCompileInputs.cache
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/aula04.dll
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/refint/aula04.dll
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/aula04.pdb
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/aula04.genruntimeconfig.cache
+/home/lucas/Work/faculdade/materias/ED/desafios/aula04/obj/Debug/net10.0/ref/aula04.dll
