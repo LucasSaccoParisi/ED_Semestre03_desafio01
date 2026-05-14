@@ -1,0 +1,14 @@
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/bin/Debug/net10.0/Pr07
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/bin/Debug/net10.0/Pr07.deps.json
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/bin/Debug/net10.0/Pr07.runtimeconfig.json
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/bin/Debug/net10.0/Pr07.dll
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/bin/Debug/net10.0/Pr07.pdb
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/Pr07.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/Pr07.AssemblyInfoInputs.cache
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/Pr07.AssemblyInfo.cs
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/Pr07.csproj.CoreCompileInputs.cache
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/Pr07.dll
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/refint/Pr07.dll
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/Pr07.pdb
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/Pr07.genruntimeconfig.cache
+/home/lucas/Work/faculdade/materias/ED/desafios/aula07/Pr07/obj/Debug/net10.0/ref/Pr07.dll
